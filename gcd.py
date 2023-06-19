@@ -5,5 +5,4 @@ def gcd(a, b):
             return g
     g -= 1
 
-    
 print(gcd(6, 0))
