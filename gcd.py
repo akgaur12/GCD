@@ -4,6 +4,6 @@ def gcd(a, b):
         if a%g==0 and b%g==0:
             return g
     g -= 1
+
     
-x = gcd(6, 0)
-print(x)
+print(gcd(6, 0))
